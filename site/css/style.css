@@ -1,0 +1,181 @@
+body {
+	background-color: #ccffda;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+
+.myImg	{
+	border-radius: 1%;
+	height: 480px;
+	width: auto;
+	position: relative;
+	left: 10%;
+}
+
+.myImgac1 {
+	border-radius: 1%;
+	height: auto;
+	width: 90%;
+	margin-top: 16px;
+}
+
+.myImgac2 {
+	border-radius: 1%;
+	height: auto;
+	width: 400px;
+	margin: 10px;
+}
+
+.myImgac3 {
+	border-radius: 1%;
+	height: auto;
+	width: 600px;
+	margin: 10px;
+}
+
+
+.myImgbio2 {
+	border-radius: 1%;
+	width: 380px;
+}
+
+.navbar-brand {
+	margin-left: 16px;
+}
+
+.row {
+	margin-top: 10px;
+}
+
+#first-row {
+	margin-top: 85px;
+}
+
+.col-lg-8 {
+	background-color: skyblue;
+}
+
+.col-lg-4 {
+	#background-color: #c3c3c3;
+}
+
+.container-fluid {
+	margin-top: 16px;
+}
+
+.name {
+	margin-top: 30px;
+	margin-left: 30px;
+	font-weight: bold;
+}
+
+.sbold {
+	font-weight: bold;
+}
+
+a.active {
+  background-color: #04AA6D;
+  color: white;
+  padding: 5px
+}
+
+p {
+	margin: 5px;
+}
+
+.fa {
+  padding: 10px;
+  font-siz 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.first-icon {
+	margin-left: 50px;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-github {
+	color: black;
+	background: white;
+	width: fit-content;
+}
+
+input.input {
+	margin-top: 100px;
+}
+
+.paragraph1 {
+	margin: 50px;
+}
+
+.title1 {
+	margin-left: 30px;
+}
+
+.title2 {
+	font-weight: bold;
+	margin-left: 30px;
+}
+
+.mypdf {
+	width: 100%;
+	height: 800px;
+}
+
+.act1 {
+	marin-left: 0px;
+	margin-top: 16px;
+}
+
+.floatleft {
+	float: right;
+}
+
+#first {
+	margin-top: 80px;
+}
+
+.last {
+	margin-bottom: 30px;
+}
+
+.youtubeem {
+
+	width: 550px;
+	height: 350px;
+}
+
+.beforepic {
+	margin-top: 50px;
+}
